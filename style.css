@@ -1,0 +1,171 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: linear-gradient(to right, #0300a5, #d6eb1c);
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav {
+    background-color: rgb(14, 14, 14);
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #e6d922;
+    text-decoration: none;
+}
+
+main {
+    
+    text-align: center;
+    padding:  20px;
+}
+
+
+footer {
+    background-color: #fdfdfd;
+    color:  rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+.s1 {
+    display: flex;
+    font-size: 24px;
+    border-bottom: 3px solid black;
+    padding-bottom: 20px;
+}
+.p1 {
+    margin: 10px;
+}
+.s2 {
+    display: flex;
+    font-size: 24px;
+    border-bottom: 3px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.p2 {
+    margin: 10px;
+}
+.s3 {
+    display: flex;
+    font-size: 24px;
+    border-bottom: 3px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+ }
+.p4 {
+    margin: 10px;
+}
+.s4 {
+    display: flex;
+    font-size: 24px;
+    border-bottom: 3px solid black;
+ }
+.p5 {
+    margin: 10px;
+
+}
+
+ .s5 {
+    display: flex;
+    font-size: 24px;
+    border-bottom: 3px solid black;
+ }
+
+.img1 {
+    width: 90%;
+    height: 350px;
+}
+
+.img2 {
+    width: 90%;
+    height: 350px;
+}
+
+.img3 {
+    width: 90%;
+    height: 350px;
+}
+
+.img4 {
+    width: 90%;
+    height: 350px;
+}
+
+main {
+
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.attractions {
+    display: flex;
+    flex-wrap: wrap; /* Дозволяє елементам переходити на новий рядок, якщо не вистачає місця */
+    justify-content: space-between; /* Розміщення елементів по краях контейнера */
+    padding: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+
+
+.d1 {
+    border: 2px solid black;
+    width: 43%;
+}
+.d2 {
+    border: 2px solid black;
+    width: 43%;
+}
+
+.d3 {
+    border: 2px solid black;
+    width: 43%;
+}
+.d4 {
+    border: 2px solid black;
+    width: 43%;
+}
+.d5 {
+    border: 2px solid black;
+    width: 43%;
+}
+.d6 {
+    border: 2px solid black;
+    width: 43%;
+}
+
+
+div {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.hh {
+    margin-left: 45%;
+}
+
+
